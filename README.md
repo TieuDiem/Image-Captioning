@@ -20,6 +20,7 @@ This repository with simple image captioning with CLIP (ViT-B/32) pre train mode
 ` git clone  https://github.com/TieuDiem/Image-Captioning.git `
 2. Install lib.
 `pip install -r requirements.txt`
+
 3. Dowload coco pre-train model at link :https://colab.research.google.com/drive/1IdB99jnMwtPtvhOQcfWUGcpTkYDreYff?authuser=1#scrollTo=S88Sm3ga7QY-
 - Create folfer \pretrained_models\coco and put model here
 4. Dowload conceptual captions at link https://colab.research.google.com/drive/1IdB99jnMwtPtvhOQcfWUGcpTkYDreYff?authuser=1#scrollTo=S88Sm3ga7QY-
@@ -27,7 +28,6 @@ This repository with simple image captioning with CLIP (ViT-B/32) pre train mode
 5. Scripts test
 run file main.py
 6. GUI test
-run file main.py in GUI folder 
 
 
 
